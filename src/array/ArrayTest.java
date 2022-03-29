@@ -1,5 +1,6 @@
 package array;
 
+import java.text.NumberFormat;
 import java.util.Scanner;
 
 public class ArrayTest {
@@ -17,6 +18,7 @@ public class ArrayTest {
 		 *   
 		 *   
 		 */
+		
 		
 		//write data in array
 		
